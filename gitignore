@@ -1,1 +1,7 @@
+# File atau direktori yang akan diabaikan oleh Git
+
+# Direktori node_modules yang berisi dependensi npm
+node_modules/
+
+# File konfig
 
